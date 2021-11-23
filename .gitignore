@@ -1,0 +1,10 @@
+.idea/*
+experiments/*
+tfboard_logs/*
+plots/*
+*.DS_Store
+*.swp
+*.pyc
+src/codebase/__pycache__/*
+*.json
+data/
